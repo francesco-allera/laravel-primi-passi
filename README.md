@@ -11,4 +11,4 @@
 
 First approach with Laravel 7 (design patterns, MVC, composer, route, views).
 
-Create the first view on a blade page, and get redirect to that page via route.
+Create the first view on a Laravel App in a blade page, and get redirect to that page via route.
